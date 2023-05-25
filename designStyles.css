@@ -13,8 +13,7 @@ padding: 0;
  width: 93%;
  height: 87%;
  float: center;
- background: #110022;     
- margin: 0 auto;     
+ background: #110022;        
  border: 5px solid #AA00FF;
  border-radius: 25px; 
  text-align: left;
@@ -35,7 +34,17 @@ padding: 0;
  padding: 0px 20px 20px 20px;  
  } 
  
-
+ #videoEmbed {
+	width: 448;
+	position: relative;
+	float: left;
+	padding: 20px 20px 20px 20px;
+ }
+ #videoCollection {
+	width: 1000px;
+	margin: 0 auto;
+	background: #FFFFFF;
+ }
  
 h1{
 	font-family: Lucida, monospace;
