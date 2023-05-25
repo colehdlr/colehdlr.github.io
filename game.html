@@ -34,7 +34,7 @@
 	<div id=videoCollection>
 	<h2 id="scoreboard">Score: </h2>
 	<canvas width="750" height="585" id="game"></canvas>
-	<h2>'w' up, 's' down</h2>
+	<h2>Press 'space' to move paddle up</h2>
 	</div>
 	
 <script>
@@ -193,24 +193,15 @@ function loop() {
 document.addEventListener('keydown', function(e) {
 
   // w key
-  if (e.which === 87) {
+  if (e.which === 32) {
     leftPaddle.dy = -paddleSpeed;
   }
-  // a key
-  else if (e.which === 83) {
-    leftPaddle.dy = paddleSpeed;
-  }
+
 });
 
 // listen to keyboard events to stop the paddle if key is released
 document.addEventListener('keyup', function(e) {
-  if (e.which === 38 || e.which === 40) {
-    rightPaddle.dy = 0;
-  }
-
-  if (e.which === 83 || e.which === 87) {
-    leftPaddle.dy = 0;
-  }
+	leftPaddle.dy = paddleSpeed;
 });
 
 // start the game
