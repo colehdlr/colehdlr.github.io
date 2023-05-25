@@ -18,14 +18,22 @@ padding: 0;
  border: 5px solid #AA00FF;
  border-radius: 25px; 
  text-align: left;
- margin: 3% 3% 3% 3%;    
+ margin: 3% 3% 3% 3%;   
+ overflow: auto; 
+ -ms-overflow-style: none;
+ scrollbar-width: none;
  } 
+ #container::-webkit-scrollbar { 
+ display: none;
+ } 
+
 
 
 #mainContent { 
  position: relative;  
  margin: 0 0 0 25px;     
- padding: 0px 20px 20px 20px;  } 
+ padding: 0px 20px 20px 20px;  
+ } 
  
 
  
