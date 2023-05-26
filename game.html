@@ -29,12 +29,12 @@
    
 	<div id="mainContent">  
 	<br>
-	<p><a href="index.html">Back</a></p>
+	<p class="noselect"><a href="index.html">Back</a></p>
 	
 	<div id=videoCollection>
-	<h2 id="scoreboard">Score: </h2>
+	<h2 class="noselect" id="scoreboard">Score: </h2>
 	<canvas width="750" height="585" id="game"></canvas>
-	<h2>Press 'space' to move paddle up</h2>
+	<h2 class="noselect">Click to raise paddle up</h2>
 	</div>
 	
 <script>
@@ -118,7 +118,14 @@ function loop() {
   else if (rightPaddle.y > maxPaddleY) {
     rightPaddle.y = maxPaddleY;
   }
-
+  
+  document.body.onmousedown = function() {
+	leftPaddle.dy = -paddleSpeed;
+  }
+  document.body.onmouseup = function() {
+	leftPaddle.dy = paddleSpeed;
+  }
+  
   // draw paddles
   context.fillStyle = 'white';
   context.fillRect(leftPaddle.x, leftPaddle.y, leftPaddle.width, leftPaddle.height);
