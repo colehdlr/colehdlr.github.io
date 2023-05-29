@@ -1,4 +1,4 @@
-# colehdlr.github.io
+# cole.hodler.co.uk
 
 My name is Cole Hodler, I'm a student at BHASVIC taking:
 - Further Maths    - A*
