@@ -61,7 +61,7 @@ header div {
 main {
    justify-self: center;
    max-width: 900px;
-   padding: 8px
+   margin: 16px
 }
 
 footer {
