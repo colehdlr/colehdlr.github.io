@@ -3,33 +3,36 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" href="favicon.ico">
+  <link rel="icon" href="{{ '/images/cat.gif' | relative_url }}" type="image/gif">
 
   <title>
-    {% if page.title %}
+   {%- if page.title -%}
       {{ page.title }} | {{ site.title }}
-    {% else %}
+   {%- else -%}
       {{ site.title }}
-    {% endif %}
+   {%- endif -%}
   </title>
 
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ 'styles.css' | relative_url }}">
 </head>
 
 <body>
-
-  <header>
-    <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
-  </header>
-
   <main>
+     <header>
+    <a href="{{ '/' | relative_url }}" class="image-link">
+      <div>
+         <img src="/images/coles.png"/>
+         <img src="/images/world.png"/>
+      </div>
+      <img src="/images/cat.gif" class="cat"/>
+    </a>
+  </header>
     {{ content }}
   </main>
 
   <footer>
     <a href="{{ '/feed.xml' | relative_url }}">Subscribe via RSS</a>
   </footer>
-
 </body>
 </html>
 
