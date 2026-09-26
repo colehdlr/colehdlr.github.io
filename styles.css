@@ -15,6 +15,13 @@ h1 {
    margin-bottom: 6px;
 }
 
+article h2 {
+   color: rgb(70, 44, 22);
+   margin-top: 14px;
+   margin-bottom: 10px;
+   border-bottom: 1px solid rgb(70, 44, 22);
+}
+
 body {
   background-color: antiquewhite;
   min-height: 100%;
