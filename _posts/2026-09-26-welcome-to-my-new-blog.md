@@ -19,7 +19,7 @@ In the end, for just under £2, I secured [coles.blog](https://coles.blog) from 
 
 ## See you around
 
-I'll likely continue to make adjustments to the site while posting the next couple of blogs as there are still a few areas I'm still not entirely happy with. I'll also do my best to commit to at least a weekly cadence, although I've not made a particularly strong track record for myself.
+I'll likely continue to make adjustments to the site while posting the next couple of blogs as there are still a few parts I don't consider complete. I'll also do my best to commit to at least a weekly cadence, although I've not made a particularly strong track record for myself.
 
 So, if you don't see another post from me, I probably started something else and forgot about this again.
 
