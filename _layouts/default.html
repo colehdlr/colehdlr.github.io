@@ -19,15 +19,21 @@
    <body>
       <main>
          <header>
-            <a href="{{ '/' | relative_url }}" class="image-link">
-               <div>
-                  <img src="/images/coles.png" />
+            <a href="{{ '/' | relative_url }}" class="header-images">
+               <img src="/images/coles.png" />
+               <div class="world-cat">
                   <img src="/images/world.png" />
+                  <img src="/images/cat.gif" class="cat" />
                </div>
-               <img src="/images/cat.gif" class="cat" />
             </a>
+            <div class="site-links">
+               <a href="{{ '/' | relative_url }}"><h3>Blog</h3></a>
+               <a href="{{ '/about' | relative_url }}"><h3>About</h3></a>
+            </div>
          </header>
-         {{ content }}
+         <article>
+            {{ content }}
+         </article>
       </main>
 
       <footer>

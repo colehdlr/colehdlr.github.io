@@ -1,5 +1,6 @@
 :root {
    --primary: #5b4d41;
+   --secondary: #988574;
    --background: #ffead2;
    --link: #315f81;
    --visited: #7a5258;
@@ -38,18 +39,7 @@ a:visited {
 
 /* Layout */
 header {
-   padding-bottom: 16px;
-}
-
-header a {
    display: flex;
-   align-items: flex-end;
-}
-
-header div {
-   display: flex;
-   flex-direction: column;
-   align-items: start;
 }
 
 main {
@@ -60,21 +50,52 @@ main {
 
 footer {
    padding: 8px;
-   border-top: 1px solid var(--primary);
+   border-top: 1px solid var(--secondary);
 }
 
 /* Components */
 article h2 {
-   border-bottom: 1px solid var(--primary);
+   border-bottom: 1px solid var(--secondary);
 }
 
-.image-link {
+.header-images {
+   display: flex;
+   flex-direction: column;
+   align-items: start;
    text-decoration: none;
+}
+
+.world-cat {
+   display: flex;
+   align-items: start;
+}
+
+.site-links {
+   display: flex;
+   flex: 1;
+   justify-content: space-evenly;
+   align-items: center;
+   margin: 16px 0;
+}
+
+.index-title {
+   margin-bottom: 8px;
+}
+
+.post-header {
+   margin-top: 8px;
+}
+
+.post-header h1 {
+   margin-top: 0px;
 }
 
 .index-post {
    padding: 8px 0;
-   border-block: 1px solid var(--primary);
+}
+
+.index-post + .index-post {
+   border-top: 1px solid var(--secondary);
 }
 
 .index-post h3 {
@@ -82,22 +103,19 @@ article h2 {
    margin-bottom: 4px;
 }
 
-.post-header {
-   display: flex;
-   justify-content: space-between;
-}
-
 /* Small screens */
 @media (max-width: 600px) {
    header {
+      flex-direction: column;
+   }
+   .post-header {
       display: flex;
+      flex-direction: column;
       justify-content: center;
-   }
-   header div {
-      align-items: center;
-   }
-   article h1 {
       text-align: center;
+   }
+   .header-images {
+      align-items: center;
    }
    .cat {
       display: none;

@@ -1,17 +1,12 @@
 ---
 layout: default
 ---
-<article>
-   <div class="post-header">
-      <time datetime="{{ page.date | date_to_xmlschema }}">
-         <i>
-            {{ page.date | date: '%d %B %Y' }}
-         </i>
-      </time>
-      <a href="{{ '/' | relative_url }}">Back home</a>
-   </div>
-
+<div class="post-header">
+   <time datetime="{{ page.date | date_to_xmlschema }}">
+      <i>
+         {{ page.date | date: '%d %B %Y' }}
+      </i>
+   </time>
    <h1>{{ page.title }}</h1>
-
-   {{ content }}
-</article>
+</div>
+{{ content }}
