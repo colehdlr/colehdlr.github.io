@@ -29,6 +29,13 @@ body {
    background-color: var(--background);
 }
 
+iframe {      
+   display: block;
+   width: 100%;
+   border: none;
+   height: 84vh;
+}
+
 a:link {
    color: var(--link);
 }
@@ -118,6 +125,9 @@ article img {
 @media (max-width: 600px) {
    header {
       flex-direction: column;
+   }
+   iframe {
+      height: 74vh;
    }
    .index-title {
       margin-top: 6px;
