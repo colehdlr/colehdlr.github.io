@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Welcome to my new blog!"
-date:   2026-09-26 22:37:08 +0100
+title: "Welcome to my new blog!"
+date: 2026-09-26 22:37:08 +0100
 ---
-Hello World! This is my first post on this new site. I've moved here from my previous residence at [coles-world.neocities.org](https://coles-world.neocities.org/blog/), which is hopefully still up when you read this. I'll cover why I moved [later on](#why-make-the-change), but I will say: Neocities is awesome and if you aren't aware of it then [check it out!](https://neocities.org) 
+
+Hello World! This is my first post on this new site. I've moved here from my previous residence at [coles-world.neocities.org](https://coles-world.neocities.org/blog/), which is hopefully still up when you read this. I'll cover why I moved [later on](#why-make-the-change), but I will say: Neocities is awesome and if you aren't aware of it then [check it out!](https://neocities.org)
 
 ## Why make the change?
 
@@ -13,7 +14,7 @@ So it wasn't long before I lost motivation to continue the blog and forgot about
 
 ## New domain
 
-After setting up with [GitHub Pages](https://docs.github.com/en/pages), I took a look around for where I could grab a nice new domain to go with my new site. Apparently [GoDaddy is rubbish](https://www.reddit.com/r/webhosting/comments/y8za8c/why_is_godaddy_that_bad/), and [Spaceship](https://www.spaceship.com/), which I found to have the best price on [tld-list.com](https://tld-list.com/), is supposed to be [equally sketchy](https://www.reddit.com/r/selfhosted/comments/14fj6y5/negative_review_for_spaceshipcom_domain/). So I had to do some more digging for a registrar that didn't get nuked with bad reviews on [reddit.com](https://reddit.com). 
+After setting up with [GitHub Pages](https://docs.github.com/en/pages), I took a look around for where I could grab a nice new domain to go with my new site. Apparently [GoDaddy is rubbish](https://www.reddit.com/r/webhosting/comments/y8za8c/why_is_godaddy_that_bad/), and [Spaceship](https://www.spaceship.com/), which I found to have the best price on [tld-list.com](https://tld-list.com/), is supposed to be [equally sketchy](https://www.reddit.com/r/selfhosted/comments/14fj6y5/negative_review_for_spaceshipcom_domain/). So I had to do some more digging for a registrar that didn't get nuked with bad reviews on [reddit.com](https://reddit.com).
 
 In the end, for just under £2, I secured [coles.blog](https://coles.blog) from the trendy [porkbun.com](https://porkbun.com) for 1 year. Although it seems like a good deal for a domain with such short length, I did notice their cost of £20 to renew next year. Despite this, I spent my £2 and claimed a little more of the internet. I imagine Porkbun either has lower profit margins for the initial registration, or takes a loss to gather new customers for their yearly renewal system. Overall the service from them has been as expected. They provide a pleasant DNS management menu, which is all I have used for now.
 
@@ -22,9 +23,3 @@ In the end, for just under £2, I secured [coles.blog](https://coles.blog) from 
 I'll likely continue to make adjustments to the site while posting the next couple of blogs as there are still a few parts I don't consider complete. I'll also do my best to commit to at least a weekly cadence, although I've not made a particularly strong track record for myself.
 
 So, if you don't see another post from me, I probably started something else and forgot about this again.
-
-
-
-
-
-

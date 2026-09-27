@@ -1,0 +1,25 @@
+{
+   "name": "colehdlr.github.io",
+   "version": "1.0.0",
+   "description": "Hi, this my Jekyll site for [Cole's World](https://coles.blog)!",
+   "main": "index.js",
+   "scripts": {
+      "format": "prettier --write ."
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/colehdlr/colehdlr.github.io.git"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "type": "commonjs",
+   "bugs": {
+      "url": "https://github.com/colehdlr/colehdlr.github.io/issues"
+   },
+   "homepage": "https://github.com/colehdlr/colehdlr.github.io#readme",
+   "devDependencies": {
+      "@shopify/prettier-plugin-liquid": "^1.11.1",
+      "prettier": "^3.9.9"
+   }
+}

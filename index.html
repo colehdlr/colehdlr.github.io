@@ -1,14 +1,13 @@
 ---
 layout: default
 ---
-
 <h1>Latest posts</h1>
 
 {% for post in site.posts %}
    <div class="index-post">
       <time datetime="{{ post.date | date_to_xmlschema }}">
          <i>
-            {{ post.date | date: "%d %B %Y" }}
+            {{ post.date | date: '%d %B %Y' }}
          </i>
       </time>
       <a href="{{ post.url | relative_url }}">

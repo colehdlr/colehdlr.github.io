@@ -1,31 +1,31 @@
 :root {
-  --primary: #5b4d41;
-  --background: #ffead2;
-  --link: #315f81;
-  --visited: #7a5258;
+   --primary: #5b4d41;
+   --background: #ffead2;
+   --link: #315f81;
+   --visited: #7a5258;
 }
 
 /* Reset */
 * {
-  box-sizing: inherit;
+   box-sizing: inherit;
 }
 
 html {
-  box-sizing: border-box;
-  height: 100%;
-  scrollbar-gutter: stable;
+   box-sizing: border-box;
+   height: 100%;
+   scrollbar-gutter: stable;
 }
 
 body {
-  display: grid;
-  grid-template-rows: 1fr auto;
-  min-height: 100%;
-  margin: 0;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  line-height: 1.4;
-  letter-spacing: 0.02em;
-  color: var(--primary);
-  background-color: var(--background);
+   display: grid;
+   grid-template-rows: 1fr auto;
+   min-height: 100%;
+   margin: 0;
+   font-family: Georgia, "Times New Roman", Times, serif;
+   line-height: 1.4;
+   letter-spacing: 0.02em;
+   color: var(--primary);
+   background-color: var(--background);
 }
 
 a:link {
@@ -38,68 +38,68 @@ a:visited {
 
 /* Layout */
 header {
-  padding-bottom: 16px;
+   padding-bottom: 16px;
 }
 
 header a {
-  display: flex;
-  align-items: flex-end;
+   display: flex;
+   align-items: flex-end;
 }
 
 header div {
-  display: flex;
-  flex-direction: column;
-  align-items: start;
+   display: flex;
+   flex-direction: column;
+   align-items: start;
 }
 
 main {
-  justify-self: center;
-  max-width: 900px;
-  margin: 16px;
+   justify-self: center;
+   max-width: 900px;
+   margin: 16px;
 }
 
 footer {
-  padding: 8px;
-  border-top: 1px solid var(--primary);
+   padding: 8px;
+   border-top: 1px solid var(--primary);
 }
 
 /* Components */
 article h2 {
-  border-bottom: 1px solid var(--primary);
+   border-bottom: 1px solid var(--primary);
 }
 
 .image-link {
-  text-decoration: none;
+   text-decoration: none;
 }
 
 .index-post {
-  padding: 8px 0;
-  border-block: 1px solid var(--primary);
+   padding: 8px 0;
+   border-block: 1px solid var(--primary);
 }
 
 .index-post h3 {
-  margin-top: 2px;
-  margin-bottom: 4px;
+   margin-top: 2px;
+   margin-bottom: 4px;
 }
 
 .post-header {
-  display: flex;
-  justify-content: space-between;
+   display: flex;
+   justify-content: space-between;
 }
 
 /* Small screens */
 @media (max-width: 600px) {
-  header {
-    display: flex;
-    justify-content: center;
-  }
-  header div {
-    align-items: center;
-  }
-  article h1 {
-    text-align: center;
-  }
-  .cat {
-    display: none;
-  }
+   header {
+      display: flex;
+      justify-content: center;
+   }
+   header div {
+      align-items: center;
+   }
+   article h1 {
+      text-align: center;
+   }
+   .cat {
+      display: none;
+   }
 }
