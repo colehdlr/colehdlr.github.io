@@ -117,7 +117,7 @@ article h2 {
    }
    .about-title {
       margin-top: 6px;
-      margin-bottom: 0;
+      margin-bottom: 4px;
    }
    .post-header {
       display: flex;
