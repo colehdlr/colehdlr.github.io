@@ -112,10 +112,12 @@ article h2 {
       flex-direction: column;
    }
    .index-title {
-      margin-top: 0;
+      margin-top: 6px;
+      margin-bottom: 0;
    }
    .about-title {
-      margin-top: 0;
+      margin-top: 6px;
+      margin-bottom: 0;
    }
    .post-header {
       display: flex;
