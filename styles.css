@@ -43,6 +43,7 @@ header {
 }
 
 main {
+   width: calc(100% - 32px);
    justify-self: center;
    max-width: 900px;
    margin: 16px;
@@ -56,6 +57,13 @@ footer {
 /* Components */
 article h2 {
    border-bottom: 1px solid var(--secondary);
+}
+
+article img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: 100%;
 }
 
 .header-images {
