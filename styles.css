@@ -2,6 +2,7 @@
    --primary: #5b4d41;
    --secondary: #988574;
    --background: #ffead2;
+   --background-secondary: #ffe5c8;
    --link: #315f81;
    --visited: #7a5258;
 }
@@ -64,6 +65,13 @@ footer {
 /* Components */
 article h2 {
    border-bottom: 1px solid var(--secondary);
+}
+
+blockquote {
+   background-color: var(--background-secondary);
+   border: 1px solid var(--secondary);
+   margin: 0px;
+   padding: 0 14px;
 }
 
 article img {
