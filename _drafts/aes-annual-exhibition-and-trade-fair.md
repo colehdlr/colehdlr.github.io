@@ -20,7 +20,21 @@ The employees were lovely and directed us to their starter kit and some Cubaris 
 
 I also considered buying one of their millipedes and went to [Venomous Visions' stand](https://www.venomousvisions.co.uk/) to practice handling one of their millipedes to see if I liked it. Although I did like them, I decided it would be best to wait and get a feel for the isopods before embarking on a life of creepy crawlies. 
 
-The next item on the agenda was finding a pinned Atlas moth as a birthday gift for a party the next day. These moths are massive! We found a few sellers and opted for the cheapest from the smaller, but very friendly, stand run by [Bob Dollery](https://www.amentsoc.org/about/news/0257/) upstairs.
+The next item on the agenda was finding a pinned Atlas moth as a birthday gift for a party the next day. These guys are massive. We found a few sellers and opted for the cheapest from the smaller, but very friendly, stand run by [Bob Dollery](https://www.amentsoc.org/about/news/0257/) upstairs.
 
 ![Image](/images/atlasMoth.png){: width="260"}
 *Behold, the Atlas moth (max wingspan 30cm)*
+
+The convention had a warm and enthusiastic atmosphere, and everyone we spoke to was simply excited to talk about that which they loved: invertebrates. I hope to go again next year if possible, although I doubt I'll have the same grit to come home bugless.
+
+## Back home
+After the train trip back to my flat, we laid out the contents of the starter kit, keen to get the Cubaris murina 'Mandarin' out of their little plastic tub into their new home.
+
+![Image](/images/kitContents.jpeg){: width="400"}
+*Contents of isopod kit*
+
+We placed the substrates, added the dried leaves and the obstacles, moss and consumables.
+To those who know what they're doing, don't worry, we noticed that we'd missed setting up a moisture gradient and corrected the layout later on.
+
+![Image](/images/isopodHome.png){: width="300"}
+*Finished isopod enclosure*
