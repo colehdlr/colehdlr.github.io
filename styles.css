@@ -78,7 +78,15 @@ article img {
    display: block;
    margin-left: auto;
    margin-right: auto;
+   margin-top: 20px;
    max-width: 100%;
+}
+
+article img + em {
+   text-align: center;
+   display: block;
+   margin-top: 5px;
+   margin-bottom: 20px;
 }
 
 .header-images {
