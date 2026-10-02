@@ -142,6 +142,10 @@ article img + em {
    header {
       flex-direction: column;
    }
+   footer {
+      display: flex;
+      justify-content: center;
+   }
    iframe {
       height: 74vh;
    }
