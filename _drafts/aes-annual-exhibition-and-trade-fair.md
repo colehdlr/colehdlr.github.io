@@ -3,10 +3,10 @@ layout: post
 title: "AES: Annual Exhibition and Trade Fair 2026"
 ---
 
-[The Amateur Entomologists' Society's annual convention](https://www.amentsoc.org/events/exhibitions.html) was recommended to me by a reptile store employee I'd spoken to the week prior. 
-The following Saturday morning, my partner and I took a train to Kempton Park Racecourse, Surrey, and found our way to the venue.
+[The Amateur Entomologists' Society's annual convention](https://www.amentsoc.org/events/exhibitions.html) was recommended to me by a reptile store employee I'd spoken to the week prior when I'd accompanied my partner to look into buying vampire crabs. 
+The following Saturday morning we took a train to Kempton Park Racecourse, Surrey, and purchased two adult convention tickets.
 
-We emerged into the convention's main hall, busy with entomologists with their wooden boxes, and surrounded by a musty smell which I assume came from the pinned insects and live invertebrates.
+Entering the convention's main hall we saw many entomologists with their wooden boxes, and noticed what I assumed to be the smell of pinned insects and live invertebrates.
 
 For the first hour, we explored the convention, gawking at the variety of beetles, moths, butterflies and tarantulas pinned and organised for their selection by hobbyists. 
 Further in, we found the live millipedes, centipedes and the prior mentioned invertebrates also for sale as live pets.
