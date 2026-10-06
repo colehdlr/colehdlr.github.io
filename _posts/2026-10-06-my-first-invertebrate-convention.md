@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "AES: Annual Exhibition and Trade Fair 2026"
+title: "My first invertebrate convention"
 date: 2026-10-06 14:31:08 +0100
+description: "An account experience of my first time attending the Amateur Entomologists' Society's annual exhibition and trade fair. Including a couple of purchases."
+image: /images/pinnedButterflies.jpeg
 ---
 
-I found out about the [Amateur Entomologists' Society's annual convention](https://www.amentsoc.org/events/exhibitions.html) from an employee I'd spoken to the week prior while accompanying my partner to look into buying vampire crabs at a reptile store. 
-After doing some research online during the week, the following Saturday morning we took a train to Kempton Park Racecourse, Surrey, and purchased two adult convention tickets.
+I found out about the Amateur Entomologists' Society's [annual exhibition and trade fair](https://www.amentsoc.org/events/exhibitions.html) from an employee I'd spoken to while looking for vampire crabs at a reptile store the week prior. 
+After doing some research online, my partner and I took the train to Kempton Park Racecourse, Surrey, the following Saturday morning.
 
-Entering the convention's main hall, we saw entomologists wandering around with their wooden boxes, and immediately smelt the musty scent of the pinned and live invertebrates from the trading stands.
+Entering the convention's main hall, we noticed entomologists wandering around with wooden boxes, and the musty scent of the pinned and live invertebrates from the trading stands.
 
 > Wooden entomology boxes are used to store pinned invertebrates for both transport and long-term storage as part of a larger collection. They're designed to protect against dust, moisture and pests.
 

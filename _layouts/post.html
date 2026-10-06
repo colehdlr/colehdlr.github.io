@@ -2,6 +2,9 @@
 layout: default
 ---
 <div class="post-header">
+   {% if page.image %}
+      <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+   {% endif %}
    <time datetime="{{ page.date | date_to_xmlschema }}">
       <i>
          {{ page.date | date: '%d %B %Y' }}

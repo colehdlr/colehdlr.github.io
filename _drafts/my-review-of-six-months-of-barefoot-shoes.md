@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "6 Months of Barefoot Shoes"
+title: "My review of 6 months in barefoot shoes"
 ---
 
 Half a year ago, in early April, I bought my first pair of barefoot shoes.
