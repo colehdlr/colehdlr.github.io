@@ -60,3 +60,5 @@ We laid the soil and added the layer of dried leaves ensuring equal coverage. Af
 With the enclosure set up, we watched the *Cubaris m. 'Mandarin'* clamber around in their new home, slowly becoming more familiar until they settled into hidden burrows for some well-deserved rest. 
 
 *Note to those who know what they're doing: We also noticed that we had not set up a moisture gradient correctly and adjusted the layout later on.*
+
+**Title image**: *Image of one of the stands; featuring pinned moths (photo by me)*

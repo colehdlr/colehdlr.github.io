@@ -4,7 +4,7 @@
    --background: #ffead2;
    --background-secondary: #ffe5c8;
    --link: #315f81;
-   --visited: #7a5258;
+   --visited: #9c4d71;
 }
 
 /* Reset */
@@ -35,6 +35,10 @@ iframe {
    width: 100%;
    border: none;
    height: 84vh;
+}
+
+a {
+   text-decoration: none;
 }
 
 a:link {
