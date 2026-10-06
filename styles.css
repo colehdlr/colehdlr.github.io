@@ -39,6 +39,7 @@ iframe {
 
 a {
    text-decoration: none;
+   font-style: italic;
 }
 
 a:hover {
@@ -147,6 +148,7 @@ article img + em {
 }
 
 .index-post h3 {
+   font-style: normal;
    margin-top: 2px;
    margin-bottom: 10px;
 }
