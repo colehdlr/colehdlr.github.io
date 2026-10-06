@@ -4,7 +4,7 @@
    --background: #ffead2;
    --background-secondary: #ffe5c8;
    --link: #315f81;
-   --visited: #9c4d71;
+   --visited: #7a5258;
 }
 
 /* Reset */
@@ -39,6 +39,10 @@ iframe {
 
 a {
    text-decoration: none;
+}
+
+a:hover {
+   text-decoration: underline;
 }
 
 a:link {
@@ -144,7 +148,11 @@ article img + em {
 
 .index-post h3 {
    margin-top: 2px;
-   margin-bottom: 4px;
+   margin-bottom: 10px;
+}
+
+.index-post p {
+   margin-top: 10px;
 }
 
 /* Small screens */
