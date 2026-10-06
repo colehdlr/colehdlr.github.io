@@ -40,7 +40,7 @@ Moving on, we were able to find a few sellers with Atlas moth's and opted for th
 ![Image](/images/atlasMoth.png){: width="260"}
 *Behold, the Atlas moth*
 
-After being in the convention for over 3 hours, we grabbed a burger and chips from the stand outside and headed back. 
+After being in the convention for over 3 hours, we grabbed a burger and chips from the van outside and headed back. 
 
 All in all, both the attendees and the stand owners were very chatty and enthusiastic, and everyone we spoke to was more than excited to talk about invertebrates. Hopefully I'll make it there again next year, although I doubt I'll have the fortitude to return bugless next time...
 
