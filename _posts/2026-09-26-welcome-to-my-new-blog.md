@@ -2,6 +2,7 @@
 layout: post
 title: "Welcome to my new blog!"
 date: 2026-09-26 22:37:08 +0100
+description: "A short intro to Cole's World covering: why I moved from my previous blog, my experience setting up here, and what I plan to write about."
 ---
 
 Hello World! This is my first post on this new site. I've moved here from my previous residence at [coles-world.neocities.org](https://coles-world.neocities.org/blog/), which is hopefully still up when you read this. I'll cover why I moved [later on](#why-make-the-change), but I will say: Neocities is awesome and if you aren't aware of it then [check it out!](https://neocities.org)
@@ -20,6 +21,7 @@ In the end, for just under £2, I secured [coles.blog](https://coles.blog) from 
 
 ## See you around
 
+I plan to write here covering niches around tech, interesting things I get to do, and my opinions on various things that interest me. 
 I'll likely continue to make adjustments to the site while posting the next couple of blogs as there are still a few parts I don't consider complete. I'll also do my best to commit to at least a weekly cadence, although I've not made a particularly strong track record for myself.
 
 So, if you don't see another post from me, I probably started something else and forgot about this again.
