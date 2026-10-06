@@ -125,7 +125,7 @@ article img + em {
 }
 
 .post-header img {
-   max-width: 400px;
+   max-width: 370px;
    margin-top: 30px;
    margin-bottom: 30px;
 }
@@ -172,6 +172,11 @@ article img + em {
    }
    .post-header h1 {
       margin-bottom: 8px;
+   }
+   .post-header img {
+      max-width: 300px;
+      margin-top: 10px;
+      margin-bottom: 10px;
    }
    .header-images {
       align-items: center;
