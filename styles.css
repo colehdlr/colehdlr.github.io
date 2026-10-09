@@ -54,6 +54,10 @@ a:visited {
    color: var(--visited);
 }
 
+a.active {
+   text-decoration: underline;
+}
+
 /* Layout */
 header {
    display: flex;

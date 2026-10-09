@@ -29,9 +29,15 @@
                </div>
             </a>
             <div class="site-links">
-               <a href="{{ '/' | relative_url }}"><h3>Blog</h3></a>
-               <a href="{{ '/guestbook' | relative_url }}"><h3>Guestbook</h3></a>
-               <a href="{{ '/about' | relative_url }}"><h3>About</h3></a>
+               <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>
+                  <h3>Blog</h3>
+               </a>
+               <a href="{{ '/guestbook' | relative_url }}" {% if page.url contains '/guestbook' %}class="active"{% endif %}>
+                  <h3>Guestbook</h3>
+               </a>
+               <a href="{{ '/about' | relative_url }}" {% if page.url contains '/about' %}class="active"{% endif %}>
+                  <h3>About</h3>
+               </a>
             </div>
          </header>
          <article>
