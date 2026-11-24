@@ -1,4 +1,4 @@
-# Cole's World Blog Reop
+# Cole's World Blog
 
 Hi, this my Jekyll site for [Cole's World](https://coles.blog)!
 
@@ -6,7 +6,7 @@ Hi, this my Jekyll site for [Cole's World](https://coles.blog)!
 
 Prerequisite setup instructions: https://jekyllrb.com/docs/installation/macos/
 
-Run this to view local drafts:
+Run this to preview local drafts:
 ```
 bundle install
 bundle exec jekyll serve --drafts
