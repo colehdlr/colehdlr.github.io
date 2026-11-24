@@ -7,6 +7,7 @@ Gemfile.lock
 node_modules
 .obsidian
 .obsidian.vimrc
+**/.DS_Store
 *~
 *.swp
 *.swo
